@@ -9,6 +9,3 @@ auth_login_usage: "§6§lLiteDays §8| §fИспользуйте: §6/login <в�
 auth_register_usage: "§6§lLiteDays §8| §fИспользуйте: §6/register <пароль> <повтор_пароля>"
 test_give_group: "§b§lStaff §8| §fГруппа игрока %player% §aуспешно §fобновлена до %group%"
 test_give_group_error: "§b§lStaff §8| §cОшибка при выдаче группы игроку %player%"
-
-matrica_staff_connect: "§b§lStaff §8| %staff% §fподключился к кору..." #PlazmixNetwork привет!
-matrica_staff_disconnect: "§b§lStaff §8| %staff% §fотключился от кора... (%time_played%)"
