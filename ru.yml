@@ -5,7 +5,7 @@
 #=========================================#
            Auth Core Module 
 #=========================================#
-auth_login_usage: "§6§lLiteDays §8| §fИспользуйте: §6/login <ваш_пароль>"
-auth_register_usage: "§6§lLiteDays §8| §fИспользуйте: §6/register <пароль> <повтор_пароля>"
+auth_login_usage: "§6§Auth §8| §fИспользуйте: §6/login <ваш_пароль>"
+auth_register_usage: "§6§lAuth §8| §fИспользуйте: §6/register <пароль> <повтор_пароля>"
 test_give_group: "§b§lStaff §8| §fГруппа игрока %player% §aуспешно §fобновлена до %group%"
 test_give_group_error: "§b§lStaff §8| §cОшибка при выдаче группы игроку %player%"
